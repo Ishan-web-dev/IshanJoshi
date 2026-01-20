@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "Title": "WearBasket – ",
+    "SubTitle": "eCommerce UI/UX & Design Development",
+    "Hyperlink": "https://wearbasket.com/",
+    "image": "https://i.pinimg.com/1200x/46/62/4f/46624f301497a390ad1e1c52850c1192.jpg",
+    "role": "Frontend Developer/ UI/UX",
+    "duration": "5 dcays",
+    "Discription": "WearBasket is a fashion-focused eCommerce brand offering stylish and trendy apparel. ",
+    "tags": ["Next JS", "Tailwind", "Framer Motion"],
+    "link": "Working",
+    "whatIDo": "At WearBasket, I played a key role in designing and developing the eCommerce user experience. I created modern product page layouts, intuitive cart and checkout flows, and structured product listing pages. My focus was on improving usability, simplifying the shopping journey, and optimizing the design to support higher user engagement and better conversions.I designed and developed a modern, user-friendly shopping experience with intuitive product pages, seamless checkout flow, and responsive layouts to enhance engagement and conversions."
+  },
+  {
+    "id": 2,
+    "Title": "YatraKaroTravels",
+    "SubTitle": "Travel Website & Admin Dashboard",
+    "Hyperlink": "https://www.yatrakarotravels.com/",
+    "image": "https://i.pinimg.com/736x/2c/a8/d9/2ca8d980b9a176689775788776be16e5.jpg",
+    "role": "Lead Frontend Developer",
+    "duration": "In Production",
+    "Discription": "YatraKaroTravels is a modern travel agency dedicated to providing seamless and memorable travel experiences. The platform offers curated trip packages, easy booking options, and a user-friendly interface designed for travelers. With a visually engaging design and efficient backend management system, YatraKaroTravels ensures smooth planning and hassle-free journeys for its customers.",
+    "tags": ["Next JS","React JS ", "Tailwind css", "Framer Motion"],
+    "link": "Working",
+    "whatIDo": "For Yatra Karo, I worked as a UI/UX Designer and Next.js Developer, creating visually appealing travel creatives using Canva and translating them into a functional website. I developed responsive frontend pages for trip listings, bookings, and travel packages using Next.js. Additionally, I designed a clean and organized admin dashboard to help manage content efficiently."
+  },
+  {
+    "id": 3,
+    "Title": "CollectSwift",
+    "SubTitle": "CollectSwift Gateway Website ",
+    "Hyperlink": "https://collectswift.com/",
+    "image": "https://i.pinimg.com/736x/39/e5/8a/39e58ae64a545e95c759a78a952ed94f.jpg",
+    "role": "Lead Frontend Developer",
+    "duration": "2 days ",
+    "Discription": "CollectSwift simplifies digital payments with a fast, secure, and developer-friendly platform. Designed for growing businesses, it offers seamless integration, real-time tracking, and reliable transaction processing. CollectSwift helps businesses move money smarter and faster.",
+    "tags": ["Next js", "Tailwind", "Framer Motion"],
+    "link": "Working",
+    "whatIDo": "I was responsible for the complete frontend development and UI design of the CollectSwift payment gateway website. I built a modern, responsive interface with interactive landing pages that clearly communicated the brand’s value. The design emphasized trust, security, and professionalism, which are critical elements in the fintech and payments industry."
+  },
+  {
+    "id": 4,
+    "Title": "MyPratham Education E-Learning Foundation",
+    "SubTitle": "Website Frontend & UI Design",
+    "Hyperlink": "https://mypratham.com/",
+    "image": "https://i.pinimg.com/1200x/50/56/83/505683cfe3bd7e9e5b4299aa5f4745a3.jpg",
+    "role": "Frontend Developer/ UI Designer",
+    "duration": "13 DAys",
+    "Discription": "MyPratham Education Website is a digital learning platform designed to make quality education accessible, engaging, and interactive for students. The Site combines structured learning, intuitive design, and seamless navigation to support personalized education and academic growth. It bridges the gap between traditional learning and modern technology-driven education.",
+    "tags": ["Next js", "Tailwind", "Framer Motion"],
+    "link": "Working",
+    "whatIDo": "For Mypratham Education, I worked as a Frontend Developer and UI Designer, designing a clean, education-focused interface that was visually engaging and easy to use. I built responsive frontend components while prioritizing readability, accessibility, and structured layouts. I also integrated smooth animations and micro-interactions to enhance user engagement without affecting performance."
+  },
+  {
+    "id": 5,
+    "Title": "MyPratham Education App",
+    "SubTitle": "UI Designer, User Expirience",
+    "Hyperlink": "https://mypratham.com/",
+    "image": "https://i.pinimg.com/736x/fa/8b/61/fa8b6131353ff2bf26a776e3f609c0c9.jpg",
+    "role": "UI Designer/ User Expirience",
+    "duration": "16 Days",
+    "Discription": "Pratham Education is a modern e-learning platform dedicated to making quality education accessible to every learner. We provide interactive courses, structured learning paths, and digital resources that empower students to learn at their own pace. Our platform blends technology with education to create an engaging and meaningful learning experience.",
+    "tags": ["Next js", "Tailwind", "Framer Motion"],
+    "link": "Working",
+    "whatIDo": "As a Product UI/UX Designer for the MyPratham Education app, I designed the complete mobile interface along with detailed user journeys and flow diagrams. I created intuitive onboarding screens, dashboards, and learning modules while ensuring simple navigation and a seamless user experience. The design focused on clarity, accessibility, and ease of use for students and educators."
+  },
+ 
+  {
+    "id": 6,
+    "Title": "MarwarPay Info Solutions Pvt. Ltd.",
+    "SubTitle": "Payment Gateway , Fintech Solution, Product And Service based IT Company ",
+    "Hyperlink": "https://in.linkedin.com/company/marwarpay-infotech",
+    "image": "https://i.pinimg.com/736x/16/ee/77/16ee77e3f658db80dadb4c4398119a34.jpg",
+    "role": "Frontend Developer/ web Designer",
+    "duration": "1.6 Years",
+    "Discription": "",
+    "tags": [" Canva", "FrontEnd Development"],
+    "link": "",
+    "whatIDo": "For MarwarPay Info Solutions, I handled social media design and brand creatives using Canva. I created professional posts, banners, posters, and marketing visuals while maintaining a consistent brand identity. My work supported the company’s digital presence by delivering visually appealing and cohesive content tailored for fintech audiences."
+  },
+  {
+    "id": 7,
+    "Title": "PayNexus",
+    "SubTitle": "Payment Gateway Website (From Scratch)",
+    "Hyperlink": "https://paynexus.in/",
+    "image": "https://i.pinimg.com/1200x/fa/d0/cc/fad0cc804d19c4a17cb0863d16c43978.jpg",
+    "role": "Frontend Developer/ web Designer",
+    "duration": "1.6 Years",
+    "Discription": "A secure, fast, and seamless digital payment solution built for modern businesses. We enable merchants to accept, process, and manage payments effortlessly across multiple channels with reliability and transparency. Powering growth through smart and scalable payment technology company.",
+    "tags": ["Next JS", "Tailwind css"],
+    "link": "",
+    "whatIDo": "I led the complete frontend development and UI design for the PayNexus payment gateway website from scratch. I designed a professional fintech-inspired interface and developed key sections including the homepage, product pages, and dashboard UI. The website was built with performance optimization in mind, ensuring fast loading speeds, responsiveness, and a seamless user experience across devices."
+  }
+]
