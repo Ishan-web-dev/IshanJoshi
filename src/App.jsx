@@ -34,7 +34,7 @@ function App() {
   }
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="Ishanjoshi">
       <Navbar />
       <ScrollOnTop />
 
