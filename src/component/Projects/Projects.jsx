@@ -12,7 +12,7 @@ import {
   ChevronRight,
 } from "lucide-react";
 
-import projects from "../Data/Data.json";
+import projects from "../Data/Data";
 
 const Projects = () => {
   const sliderRef = useRef(null);
@@ -76,7 +76,7 @@ const Projects = () => {
           href={project.Hyperlink}
           target="_blank"
           rel="noreferrer"
-          className="pt-5 border-t border-white/10 flex items-center justify-between text-xs font-bold uppercase tracking-widest hover:text-cyan-400 transition"
+          className="text-white pt-5 border-t border-white/10 flex items-center justify-between text-xs font-bold uppercase tracking-widest hover:text-cyan-400 transition"
         >
           View Project
           <ArrowUpRight className="text-cyan-500" size={18} />

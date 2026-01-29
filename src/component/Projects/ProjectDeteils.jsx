@@ -1,6 +1,6 @@
 import React from "react";
 import { useParams } from "react-router-dom";
-import projects from "../Data/Data.json";
+import projects from "../Data/Data";
 
 const ProjectDeteils = () => {
   const { id } = useParams();

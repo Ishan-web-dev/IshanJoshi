@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { useTypewriter, Cursor } from 'react-simple-typewriter';
 import { Link } from "react-router-dom"
-import img from "../../assets/ishan.png"
+import img from "../../../public/assets/ishan.png"
 
 export default function Intro() {
   const [text] = useTypewriter({

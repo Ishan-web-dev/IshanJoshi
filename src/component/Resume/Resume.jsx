@@ -1,5 +1,5 @@
 import React from "react";
-import img from "../../assets/ishan.png"
+import img from "../../../public/assets/ishan.png"
 
 // --- DATA REMAINS UNCHANGED ---
 const profileData = {
