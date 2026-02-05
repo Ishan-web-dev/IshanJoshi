@@ -42,7 +42,7 @@ export default function Footer() {
           className="mb-8 text-center"
         >
           <h2 className="text-2xl font-bold tracking-tighter text-white">
-            ISHAN<span classNameName="text-blue-500">.</span>DEV
+            ISHAN<span className="text-blue-500">.</span>DEV
           </h2>
           <p className="text-gray-500 text-sm mt-2 font-light tracking-widest">
             BUILDING SCALABLE DIGITAL SOLUTIONS

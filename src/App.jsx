@@ -34,7 +34,7 @@ function App() {
   }
 
   return (
-    <BrowserRouter basename="Ishanjoshi">
+    <>
       <Navbar />
       <ScrollOnTop />
 
@@ -50,7 +50,7 @@ function App() {
       </Routes>
 
       <Footer />
-    </BrowserRouter>
+    </>
   );
 }
 
