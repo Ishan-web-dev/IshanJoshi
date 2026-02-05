@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ishan-web-dev.github.io/IshanJoshi/sitemap.xml
