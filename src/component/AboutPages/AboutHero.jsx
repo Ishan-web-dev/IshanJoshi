@@ -20,13 +20,19 @@ export default function AboutHero() {
         {/* Main Bio - High Contrast Typography */}
         <div className="border-l border-gray-800 pl-6 md:pl-10 space-y-6">
           <p className="text-2xl md:text-3xl text-gray-300 leading-relaxed font-light max-w-3xl">
-            A <span className="text-white">Front-End (MERN Stack) Developer</span> dedicated to 
-            building clean, efficient, and user-centered digital solutions.
+            A{" "}
+            <span className="text-white">
+              Web Designer and Front-End Developer
+            </span>{" "}
+            dedicated to building clean, efficient, and user-centered digital
+            solutions.
           </p>
-          
-          <p className="text-gray-500 text-lg max-w-2xl leading-relaxed">
-            I turn complex problems into simple, beautiful interface designs. 
-            Currently focusing on performance and scalable architecture.
+
+          <p className="text-gray-500 text-lg max-w-2xl leading-[20px]">
+            I design modern, responsive, and user-friendly websites that combine
+            aesthetics with functionality. Focused on creating clean UI layouts,
+            smooth user experiences, and visually appealing interfaces that work
+            seamlessly across all devices.
           </p>
 
           {/* Simple Link/Action */}

@@ -11,7 +11,7 @@ const About = () => {
         <AboutHero />
         <Intro />
         <PersonalInfo />
-        <Projects />
+        {/* <Projects /> */}
         {/* <Services /> */}
     </div>
   )

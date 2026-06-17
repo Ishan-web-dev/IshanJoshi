@@ -1,12 +1,17 @@
-import React from 'react';
-import { motion } from 'framer-motion';
-import { useTypewriter, Cursor } from 'react-simple-typewriter';
-import { Link } from "react-router-dom"
-import img from "../../../public/assets/ishan.png"
+import React from "react";
+import { motion } from "framer-motion";
+import { useTypewriter, Cursor } from "react-simple-typewriter";
+import { Link } from "react-router-dom";
+import img from "../../../public/assets/ishan2.png";
 
 export default function Intro() {
   const [text] = useTypewriter({
-    words: ['Software Developer', 'react.js Specialist', 'UI Designer Expert', 'Problem Solver'],
+    words: [
+      "Web Designer",
+      "Software Developer",
+      "UI/UX Designer ",
+      "Problem Solver",
+    ],
     loop: 0, // Infinitely
     typeSpeed: 70,
     deleteSpeed: 50,
@@ -15,13 +20,12 @@ export default function Intro() {
 
   return (
     <section className="min-h-screen bg-black text-white py-5 px-6 flex flex-col md:flex-row items-center justify-center gap-12 lg:gap-24 overflow-hidden relative">
-      
       {/* Background Decorative Glows */}
       <div className="absolute top-0 -left-20 w-72 h-72 bg-navy-900 rounded-full blur-[120px] opacity-20"></div>
       <div className="absolute bottom-0 -right-20 w-96 h-96 bg-blue-900 rounded-full blur-[150px] opacity-10"></div>
 
       {/* Left Side: Image with Decorative Frame */}
-      <motion.div 
+      <motion.div
         initial={{ opacity: 0, x: -50 }}
         whileInView={{ opacity: 1, x: 0 }}
         transition={{ duration: 0.8 }}
@@ -41,8 +45,8 @@ export default function Intro() {
       <div className="w-full md:w-1/2 flex flex-col space-y-6 z-10">
         <div className="flex items-center gap-4">
           <div className="h-[1px] w-12 bg-blue-500"></div>
-          <span className="text-blue-400 uppercase tracking-[0.3em] text-xs font-semibold">
-            I am Ishan
+          <span className="text-blue-400 uppercase tracking-[0.3em] text-sm font-semibold">
+            I'am Ishan
           </span>
         </div>
 
@@ -51,24 +55,31 @@ export default function Intro() {
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-navy-500">
             {text}
           </span>
-          <Cursor cursorColor='#3b82f6' />
+          <Cursor cursorColor="#3b82f6" />
         </h1>
 
         <p className="text-gray-400 text-lg md:text-xl leading-[28px] max-w-xl font-light">
-          Currently, I am pursuing my BCA at S.S. Jain Subodh P.G. College, Rajasthan University (Batch 2023 – 2026), where I continue to learn, experiment, and refine my technical skills. Alongside my studies, I work with tools like<span className="text-white">React, Next.js, Tailwind CSS, and JavaScript</span> to bring ideas to life through clean design and smooth functionality.
+          I have completed my Bachelor’s degree (BCA) from S.S. Jain Subodh P.G.
+          College, Rajasthan University. With strong hands-on experience in web
+          and frontend development, I specialize in building modern, responsive,
+          and user-friendly interfaces. Over time, I have worked on multiple
+          real-world projects where I enhanced UI/UX and delivered clean,
+          efficient designs using technologies like{" "}
+          <span className="text-white">
+            React.js, Tailwind CSS, and JavaScript, Web Designing
+          </span>
+          .
         </p>
 
         {/* Call to Action Buttons */}
         <div className="flex flex-wrap gap-5 pt-4">
           {/* <button className="px-8 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-full font-medium transition-all transform hover:scale-105 shadow-lg shadow-blue-900/20">
             View Projects
-          </button> */} 
-          <Link to = "/Contact">
-          <button className="px-8 py-3 border border-gray-700 hover:border-blue-500 hover:text-blue-400 text-gray-300 rounded-full font-medium transition-all">
-         
-            Contact Me
-            
-          </button>
+          </button> */}
+          <Link to="/Contact">
+            <button className="px-8 py-3 border border-gray-700 hover:border-blue-500 hover:text-blue-400 text-gray-300 rounded-full font-medium transition-all">
+              Contact Me
+            </button>
           </Link>
         </div>
       </div>

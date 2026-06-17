@@ -4,23 +4,25 @@ import { CalendarDays, Briefcase, ChevronRight } from "lucide-react";
 const experienceData = [
   {
     company: "MARWARPAY INFO SOLUTION Pvt. Ltd.",
-    role: "Frontend Developer (Training + Internship)",
-    duration: "Jan 2025 - Dec 2025",
+    role: "Web Designer, Frontend Developer (Training + Internship)",
+    duration: "July 2024 - Feb 2026",
     contributions: [
       "Architected responsive fintech interfaces using React and Next.js, prioritizing performance and mobile-first design.",
       "Translated high-fidelity Figma designs into pixel-perfect, reusable Tailwind CSS components.",
       "Collaborated with backend teams to integrate payment APIs, enhancing the end-to-end user checkout flow.",
-    ],
-  },
-  {
-    company: "MARWARPAY INFO SOLUTION Pvt. Ltd.",
-    role: "Web Designer ",
-    duration: "July 2024 – Dec 2024",
-    contributions: [
       "Maintained legacy HTML/CSS templates, ensuring cross-browser compatibility and structural integrity.",
       "Streamlined internal data organization workflows and managed digital assets efficiently.",
     ],
   },
+  // {
+  //   company: "MARWARPAY INFO SOLUTION Pvt. Ltd.",
+  //   role: "Web Designer ",
+  //   duration: "July 2024 – Dec 2024",
+  //   contributions: [
+  //     "Maintained legacy HTML/CSS templates, ensuring cross-browser compatibility and structural integrity.",
+  //     "Streamlined internal data organization workflows and managed digital assets efficiently.",
+  //   ],
+  // },
   {
     company: "Zippy Infotech",
     role: "SEO Executive Intern ",

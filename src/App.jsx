@@ -1,7 +1,6 @@
 import "./App.css";
 import { useState, useEffect } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-
 import Navbar from "./component/Navbar/Navbar";
 import Footer from "./component/Footer/Footer";
 import Home from "./component/Home/Home";
@@ -37,7 +36,6 @@ function App() {
     <>
       <Navbar />
       <ScrollOnTop />
-
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/About" element={<About />} />
@@ -45,10 +43,9 @@ function App() {
         <Route path="/Experience" element={<Experience />} />
         <Route path="/Resume" element={<Resume />} />
         <Route path="/Contact" element={<Contact />} />
-        <Route path="/ProjectMain" element={<ProjectMain />} />
-        <Route path="/project/:id" element={<ProjectDeteils />} />
+        {/* <Route path="/ProjectMain" element={<ProjectMain />} /> */}
+        {/* <Route path="/project/:id" element={<ProjectDeteils />} /> */}
       </Routes>
-
       <Footer />
     </>
   );

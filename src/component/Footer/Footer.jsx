@@ -13,7 +13,7 @@ export default function Footer() {
     { name: "Skills", path: "/skills" },
     { name: "Experience", path: "/experience" },
     { name: "Resume", path: "/resume" },
-    { name: "Projects", path: "/ProjectMain" },
+    // { name: "Projects", path: "/ProjectMain" },
     { name: "Contact", path: "/contact" },
   ];
 
